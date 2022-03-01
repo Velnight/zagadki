@@ -1,0 +1,22 @@
+body{
+	font-size:24px;
+	background-color:white;
+    background-image: url(pytajnik.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+	color: blue;
+	background-attachment:fixed;
+}
+#container{
+width: 1200px;	
+margin: auto;
+padding: 10px;
+padding-color:red;
+text-align:center;
+}
+#wstep{
+	text-aling:center;
+	padding:10px;
+}
+
+
